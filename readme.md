@@ -6,7 +6,7 @@ Hexo server help you create hexo blog fast . Base for docker , Enjoy it !
 
 **Clone it :**
 
-`git clone https://github.com/lavenkin/docker-hexoserver.git`
+`git clone xxx`
 
 **Creat image  :**
 
@@ -20,6 +20,12 @@ Hexo server help you create hexo blog fast . Base for docker , Enjoy it !
 > My default port 4000 map local 4000 and VOLUME map local ~/www , set yourself
 
 then it will create a named `hexo` folder  in your volume . 
+
+**Result**
+
+visit [http://localhost:4000](http://localhost:4000)
+
+![](https://ws2.sinaimg.cn/large/006tNbRwgy1fkffysroq5j314i0l9djl.jpg)
 
 **More**
 
