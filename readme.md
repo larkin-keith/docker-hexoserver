@@ -6,7 +6,7 @@ Hexo server help you create hexo blog fast . Base for docker , Enjoy it !
 
 **Clone it :**
 
-`git clone xxx`
+`git clone https://github.com/lavenkin/docker-hexoserver.git`
 
 **Creat image  :**
 
